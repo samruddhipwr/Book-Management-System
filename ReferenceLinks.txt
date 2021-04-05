@@ -1,0 +1,11 @@
+Link For theme code( Reference Mosh video on Asp.net)
+https://bootswatch.com/darkly/
+
+Password encryption logic:
+https://www.c-sharpcorner.com/code/2440/password-encryption-and-decryption-of-password-in-asp-net-c.aspx
+
+https://www.c-sharpcorner.com/blogs/login-page-in-mvc-using-entity-framework
+http://dotnetlearners.com/blogs/login-page-example-in-mvc-using-entity-frame-work
+
+Incorrect Password Validation:
+https://stackoverflow.com/questions/10984618/display-incorrect-password-message
